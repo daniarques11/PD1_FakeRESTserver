@@ -1,37 +1,39 @@
-[{
-        "id": 1,
-        "name": "AATROX, THE DARKIN BLADE",
-        "motto": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance",
-        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
-    },
-    {
-        "id": 2,
-        "name": "FIZZ, THE TIDAL TRICKSTER",
-        "motto": "Electricity doesn't hurt me. When I said it doesn't hurt me, it means I can bare it. None the less, I feel the pain. That's why I'm a bit annoyed...",
-        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg"
-    },
-    {
-        "id": 3,
-        "name": "HEIMERDINGER, THE REVERED INVENTOR",
-        "motto": "I do not fear death. I fear only that my rage will fade over time.",
-        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg"
-    },
-    {
-        "id": 4,
-        "name": "KENNEN, THE HEART OF THE TEMPEST",
-        "motto": "If you wanna stop this, then stand up! Because I've just got one thing to say to you! Never forget who you want to become!",
-        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg"
-    },
-    {
-        "id": 5,
-        "name": "VARUS, THE ARROW OF RETRIBUTION",
-        "motto": "100 push-ups, 100 sit-ups, 100 squats, and a 10km run EVERY SINGLE DAY!!!",
-        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg"
-    },
-    {
-        "id": 6,
-        "name": "VEL'KOZ, THE EYE OF THE VOID",
-        "motto": "When I heard that they were after my buddy...I couldn't do anything!! I didn't do anything!! If I don't act now...forget being a hero, I'm not even a man!",
-        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg"
-    }
-]
+{
+    "characters": [{
+            "id": 1,
+            "name": "AATROX, THE DARKIN BLADE",
+            "motto": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance",
+            "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
+        },
+        {
+            "id": 2,
+            "name": "FIZZ, THE TIDAL TRICKSTER",
+            "motto": "Electricity doesn't hurt me. When I said it doesn't hurt me, it means I can bare it. None the less, I feel the pain. That's why I'm a bit annoyed...",
+            "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg"
+        },
+        {
+            "id": 3,
+            "name": "HEIMERDINGER, THE REVERED INVENTOR",
+            "motto": "I do not fear death. I fear only that my rage will fade over time.",
+            "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg"
+        },
+        {
+            "id": 4,
+            "name": "KENNEN, THE HEART OF THE TEMPEST",
+            "motto": "If you wanna stop this, then stand up! Because I've just got one thing to say to you! Never forget who you want to become!",
+            "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg"
+        },
+        {
+            "id": 5,
+            "name": "VARUS, THE ARROW OF RETRIBUTION",
+            "motto": "100 push-ups, 100 sit-ups, 100 squats, and a 10km run EVERY SINGLE DAY!!!",
+            "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg"
+        },
+        {
+            "id": 6,
+            "name": "VEL'KOZ, THE EYE OF THE VOID",
+            "motto": "When I heard that they were after my buddy...I couldn't do anything!! I didn't do anything!! If I don't act now...forget being a hero, I'm not even a man!",
+            "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg"
+        }
+    ]
+}
