@@ -8,31 +8,31 @@
         {
             "id": 2,
             "name": "FIZZ, THE TIDAL TRICKSTER",
-            "motto": "Electricity doesn't hurt me. When I said it doesn't hurt me, it means I can bare it. None the less, I feel the pain. That's why I'm a bit annoyed...",
+            "motto": "Fizz is an amphibious yordle, who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him—for many are the tales of those who have underestimated this slippery character. Often mistaken for some manner of capricious ocean spirit, he seems able to command the beasts of the deep, and delights in confounding his allies and enemies alike.",
             "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg"
         },
         {
             "id": 3,
             "name": "HEIMERDINGER, THE REVERED INVENTOR",
-            "motto": "I do not fear death. I fear only that my rage will fade over time.",
+            "motto": "A brilliant yet eccentric yordle scientist, Professor Cecil B. Heimerdinger is one of the most innovative and esteemed inventors Piltover has ever known. Relentless in his work to the point of neurotic obsession, he thrives on answering the universe's most impenetrable questions. Though his theories often appear opaque and esoteric, Heimerdinger has crafted some of Piltover's most miraculous—not to mention lethal—machinery, and constantly tinkers with his inventions to make them even more efficient.",
             "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg"
         },
         {
             "id": 4,
             "name": "KENNEN, THE HEART OF THE TEMPEST",
-            "motto": "If you wanna stop this, then stand up! Because I've just got one thing to say to you! Never forget who you want to become!",
+            "motto": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm, employing devastating electrical energy to strike down his enemies.",
             "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg"
         },
         {
             "id": 5,
             "name": "VARUS, THE ARROW OF RETRIBUTION",
-            "motto": "100 push-ups, 100 sit-ups, 100 squats, and a 10km run EVERY SINGLE DAY!!!",
+            "motto": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.",
             "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg"
         },
         {
             "id": 6,
             "name": "VEL'KOZ, THE EYE OF THE VOID",
-            "motto": "When I heard that they were after my buddy...I couldn't do anything!! I didn't do anything!! If I don't act now...forget being a hero, I'm not even a man!",
+            "motto": "It is unclear if Vel'Koz was the first Void-spawn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to scrutinize and study the physical realm—and the strange, warlike beings that dwell there—for any weakness the Void might exploit. But Vel'Koz is far from a passive observer, striking back at threats with deadly plasma, or by disrupting the very fabric of the world itself.",
             "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg"
         }
     ]
